@@ -1,0 +1,6 @@
+project_name: pymodoro
+project_root: ~/pyvenvs/pymodoro/
+pre_window: source ./pyenv/bin/activate 
+windows:
+  - ranger: ranger
+  - shell: ls -alh && git st

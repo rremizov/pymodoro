@@ -1,0 +1,8 @@
+-r requirements.txt
+flake8
+ipdb
+isort==4.2.15
+jedi
+pygments
+restructuredtext-lint
+yapf==0.19.0
